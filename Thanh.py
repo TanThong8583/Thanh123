@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
-Hello dinh tan thanh
+uyuyuyyujgoijgroigjriogjroigj
 This is a temporary script file.
 """
 
