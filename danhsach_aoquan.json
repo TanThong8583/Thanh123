@@ -1,0 +1,74 @@
+[
+  {
+    "maSP": "SP1",
+    "tenSP": "áo thun xanh",
+    "giaBan": "200000",
+    "image": "images/SP1.jpg"
+  },
+  {
+    "maSP": "SP2",
+    "tenSP": "Áo thun drew",
+    "giaBan": "220000",
+    "image": "images/SP2.jpg"
+  },
+  {
+    "maSP": "SP3",
+    "tenSP": "Bear tee",
+    "giaBan": "220000",
+    "image": "images/SP3.jpg"
+  },
+  {
+    "maSP": "SP4",
+    "tenSP": "Áo bad rabbit",
+    "giaBan": "220000",
+    "image": "images/SP4.jpg"
+  },
+  {
+    "maSP": "SP5",
+    "tenSP": "áo sweater basic",
+    "giaBan": "300000",
+    "image": "images/SP5.jpg"
+  },
+  {
+    "maSP": "SP6",
+    "tenSP": "Quần baggy",
+    "giaBan": "400000",
+    "image": "images/SP6.jpg"
+  },
+  {
+    "maSP": "SP7",
+    "tenSP": "Quần jogger",
+    "giaBan": "400000",
+    "image": "images/SP7.jpg"
+  },
+  {
+    "maSP": "SP8",
+    "tenSP": "Quần jean",
+    "giaBan": "400000",
+    "image": "images/SP8.jpg"
+  },
+  {
+    "maSP": "SP9",
+    "tenSP": "Áo hodie basic",
+    "giaBan": "350000",
+    "image": "images/SP9.jpg"
+  },
+  {
+    "maSP": "SP10",
+    "tenSP": "Áo hodie bò sữa",
+    "giaBan": "450000",
+    "image": "images/SP10.jpg"
+  },
+  {
+    "maSP": "SP11",
+    "tenSP": "Áo hodie form rộng",
+    "giaBan": "420000",
+    "image": "images/SP11.jpg"
+  },
+  {
+    "maSP": "SP12",
+    "tenSP": "áo khoác jean",
+    "giaBan": "500000",
+    "image": "images/SP12.jpg"
+  }
+]
